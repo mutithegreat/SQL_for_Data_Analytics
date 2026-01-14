@@ -1,4 +1,7 @@
 /.vscode
 /csv_files
+/project
+*.csv
+*.xlsx
 
 
